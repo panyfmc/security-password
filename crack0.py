@@ -1,4 +1,4 @@
-from string import digits    # 10 x 10 x 10 x 10jn,nhbgvl,/.ç;
+from string import digits    # 10⁴
 
 for i in digits:
     for j in digits: 
