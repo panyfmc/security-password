@@ -1,4 +1,4 @@
-from string import ascii_letters        # 64 x 64 x 64 x 64 
+from string import ascii_letters        # 52⁴ 
 
 for i in ascii_letters:
     for j in ascii_letters: 
